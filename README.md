@@ -2,3 +2,5 @@
 
 ** Problem Statement**
 Imagine you are a Data Analyst working for a global health organization. Your task is to investigate the complex challenge of undernutrition and overnutrition across different countries, age groups, and genders. You will use publicly available WHO data to uncover trends, patterns, and disparities in obesity and malnutrition rates around the world. Your end goal is to derive meaningful insights that can inform global health strategies and help tackle the nutritional paradox of rising obesity and persistent malnutrition.
+
+Video link : https://www.loom.com/share/e41de8f369094b5a98ddb729ff1c5488?sid=d361faac-9246-4356-b76f-5fcf12b7f009
